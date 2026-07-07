@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/facoriolano">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=50&duration=4000&pause=1000&color=C084FC&background=00000000&center=true&vCenter=true&width=1000&height=100&lines=Prova+Crisma+26" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=50&duration=4000&pause=1000&color=C084FC&background=00000000&center=true&vCenter=true&width=1000&height=100&lines=Teste+Crisma+26" alt="Typing SVG" />
 </a>
 
 <div style="display: flex; justify-content: center; gap: 10px;">
